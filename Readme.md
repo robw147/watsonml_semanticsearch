@@ -5,7 +5,7 @@
 
 This repository contains a sample notebook to deploy a fast and efficient NLP semantic search algorithm using Watson Machine Learning, part of IBM's multi-cloud Enterprise Data and AI platform, Cloud Pak for Data. 
 
-The notebook uses HuggingFace's sentence-transformers model, mapping sentences and paragraphs to a dimensional dense vector space and can be used for tasks like clustering or semantic search. For more details see this [link](https://huggingface.co/datasets/tweet_qa/viewer/default/train)
+The notebook uses HuggingFace's sentence-transformers model, mapping sentences and paragraphs to a dimensional dense vector space and can be used for tasks like clustering or semantic search. For more details see this [link](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
 Watson Machine Learning enables Data Scientists to deploy open source and IBM specific models for both batch and real time API. This notebook builds and deploys a Sentence Transformer model as a Python function in Watson Machine Learning. 
