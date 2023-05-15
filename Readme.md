@@ -57,14 +57,14 @@ Once you have provisioned your Watson Studio service, launch the service and cre
 
 From your Watson Studio project, associate your Watson Machine Learning service with the project. 
 
+Select Manage>Services & Integrations>Associate Service
+
 <a id="projectkey"></a>
 ## Create project token
 
 Open up the notebook in Cloud Pak for Data in edit mode and insert a blank cell at the top of the notebook and select insert project token
 ![](./screenshots/projectkey.jpg)
 
-
-Select Manage>Services & Integrations>Associate Service
 
 <a id="keyscrn"></a>
 ## Provisioning of Watson Machine Learning Service
