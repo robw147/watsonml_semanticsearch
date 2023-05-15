@@ -25,7 +25,6 @@ A user would type in a question and content returned would be the closest match 
 
 ![](./screenshots/semanticsearch.jpg)
 
-
 ##  Data
 The data set we will use to demonstrate this solution is a publicly available and can be downloaded from here (I have also included the version I use in this github repo).
 
@@ -34,8 +33,8 @@ The data set we will use to demonstrate this solution is a publicly available an
 The original version of this data was sourced from [HuggingFace](https://huggingface.co/datasets/tweet_qa/viewer/default/train)
 
 
-##  Pre-requisites for notebook
 
+##  Pre-requisites for notebook
 
 [Provisioning of Watson Machine Learning Service](#provisionWML)
 
