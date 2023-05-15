@@ -16,9 +16,7 @@ This repository contains the following notebook
 
 - SemanticSearch_WatsonML.ipynb
 
-the notebook covers the main steps to build and deploy the model with the test data set (see the data section below.)
-
-Also see the 
+which details the main steps to deploy a search based function as a Watson ML API.
 
 
 ##  Use case
